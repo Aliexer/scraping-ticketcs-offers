@@ -1,0 +1,25 @@
+
+[
+
+	{
+	"origen": "cucuta",
+	"destino": "panama",
+	"precio": 1400
+	},
+	{
+	"origen": "barranquilla",
+	"destino": "rio de janeiro",
+	"precio": 1400
+	},
+
+	{
+	"origen": "bogota",
+	"destino": "mexico",
+	"precio": 1300
+	}
+
+]
+
+	
+
+ 

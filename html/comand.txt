@@ -1,0 +1,11 @@
+sudo ssh -i /var/www/html/pharma2.pem ec2-user@3.101.116.170
+
+sudo ssh -i /home/ebenezer/pharma2.pem ec2-user@3.101.116.170
+
+sudo systemctl restart httpd
+
+sudo scp -i  /home/ebenezer/pharma2.pem /home/ebenezer/Desktop/PROYECTOS/oktoplus/images2/balazs-ketyi.jpg ec2-user@3.101.116.170:/var/www/html/oktoplus/proyecto_oktoplus/public/images/
+
+
+
+scp root@IP:/path/to/picture.jpg /some/destination
