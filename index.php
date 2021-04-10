@@ -1,1 +1,1 @@
-<?require_one("tickets_offers.html") ?>
+<?require_one("index.html") ?>
